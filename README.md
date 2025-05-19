@@ -17,9 +17,9 @@ TinDog is a modern, responsive landing page built with **Bootstrap 5**. The proj
 
 ---
 
-## Demo
 
-[homepage](homepage.png)
+### 🏠 Home Page
+![Home](homepage.png)
 
 ---
 
